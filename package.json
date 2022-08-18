@@ -141,7 +141,7 @@
     "passport-google-oauth2": "^0.2.0",
     "passport-oauth2": "^1.6.1",
     "passport-slack-oauth2": "^1.1.1",
-    "pg": "^8.5.1",
+    "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
     "polished": "^3.7.2",
     "prosemirror-commands": "^1.2.1",
