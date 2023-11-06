@@ -290,7 +290,7 @@
     "@types/react-virtualized-auto-sizer": "^1.0.2",
     "@types/react-window": "^1.8.6",
     "@types/readable-stream": "^4.0.2",
-    "@types/redis-info": "^3.0.0",
+    "@types/redis-info": "^3.0.2",
     "@types/refractor": "^3.0.2",
     "@types/resolve-path": "^1.4.0",
     "@types/semver": "^7.5.2",

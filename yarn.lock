@@ -3415,10 +3415,10 @@
     "@types/node" "*"
     safe-buffer "~5.1.1"
 
-"@types/redis-info@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/redis-info/-/redis-info-3.0.0.tgz#c925cd7249d71c3d9e12ef5b15168bdf26111b1d"
-  integrity sha512-uvjYcIvPGAIJvnRT3y6jacP1Qqs3hNQLBeKDvDtJOh5ADISsMsMJK15WzP++cfRfAwb1ZafAXwC3YYC/uKAENQ==
+"@types/redis-info@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/redis-info/-/redis-info-3.0.2.tgz#2a455dec2d685c721636a03e7b2ceee88590ebee"
+  integrity sha512-BdeWD/fqGf0Nq2Pk/vwPfWr5bR7AkG13M/oVNhi/ss8RPVkv+XDqrJya0q8Kpkh9rKCgpWW9zHCjxN2t5qgyVQ==
 
 "@types/refractor@^3.0.2":
   version "3.0.2"
