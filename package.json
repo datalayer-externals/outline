@@ -315,7 +315,7 @@
     "browserslist-to-esbuild": "^1.2.0",
     "concurrently": "^7.6.0",
     "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.7",
+    "enzyme-adapter-react-16": "^1.15.8",
     "eslint": "^8.47.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-import-resolver-typescript": "^3.5.4",
