@@ -302,7 +302,7 @@
     "@types/throng": "^5.0.4",
     "@types/tmp": "^0.2.3",
     "@types/turndown": "^5.0.1",
-    "@types/utf8": "^3.0.1",
+    "@types/utf8": "^3.0.3",
     "@types/validator": "^13.7.17",
     "@types/yauzl": "^2.10.3",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
